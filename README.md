@@ -15,3 +15,5 @@
 
 - Lastly, he told me that I needed two alerts just if the user doesn't choose at least one character or, their password length isn't between 8 & 128, which required the "or" operator. 
 
+link to password generator: https://oksimone.github.io/passwordgen/
+
